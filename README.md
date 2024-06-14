@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **jemisgabani7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1623gr7hJQb1CIUwfjJQh8IPI0dKaMnQK/view?usp=drive_link](https://drive.google.com/file/d/1623gr7hJQb1CIUwfjJQh8IPI0dKaMnQK/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
