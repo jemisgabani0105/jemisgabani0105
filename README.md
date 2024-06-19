@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jemis Gabani</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Developer and Data Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemisgabani0105&label=Profile%20views&color=0e75b6&style=flat" alt="jemisgabani0105" /> </p>
 
