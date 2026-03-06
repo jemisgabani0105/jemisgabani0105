@@ -1,92 +1,77 @@
 <h1 align="center">Hi 👋, I'm Jemis Gabani</h1>
-<h3 align="center">Data Engineer | Cloud & Data Analytics Enthusiast</h3>
+<h3 align="center">Data Engineer | Azure | SQL | PySpark | Analytics</h3>
 
 <p align="center">
-Building scalable data pipelines, analytics platforms, and cloud-based data solutions.
+Turning raw data into reliable pipelines, scalable platforms, and useful insights.
 </p>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=jemisgabani0105&label=Profile%20views&color=0e75b6&style=flat" alt="jemisgabani0105" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jemisgabani0105&label=Profile%20views&color=0e75b6&style=flat" alt="jemisgabani0105" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Master's in Applied Computing – University of Windsor  
-- 💼 Data Engineer with experience in **Python, SQL, PySpark, and Azure Data Platform**  
-- 🚀 Passionate about **Data Engineering, Cloud Computing, and Big Data Systems**  
-- 📊 Interested in building **data pipelines, analytics platforms, and real-time data systems**  
-- 🌱 Currently learning **Microsoft Fabric, Spark Optimization, and Cloud Data Architecture**
+- 🎓 Master's in Applied Computing from the University of Windsor
+- 💼 Data Engineer focused on cloud data platforms, ETL/ELT pipelines, and analytics
+- 🌱 Currently learning Microsoft Fabric, advanced Spark, and modern data architecture
+- 📊 Interested in financial analytics, cloud engineering, and real-time data systems
+- 🚀 Building hands-on projects in Azure, SQL, Python, and PySpark
 
 ---
 
-### 🔭 Current Focus
+### ⚡ What I Enjoy Working On
 
-- Building **End-to-End Data Engineering Projects**
-- Implementing **Medallion Architecture (Bronze, Silver, Gold)**
-- Working with **Azure Data Factory, Databricks, and SQL Analytics**
-- Developing **Data Analytics & Fraud Detection Pipelines**
-
----
-
-### 📂 Featured Projects
-
-🔹 **Credit Card Fraud Analytics Platform**  
-End-to-end data pipeline for fraud detection using **Python, PySpark, Azure Data Factory, ADLS, SQL, and Power BI**
-
-🔹 **E-Commerce Real-Time Data Pipeline**  
-Streaming pipeline to process user activity and transactions using **Spark and cloud data services**
-
-🔹 **Spend Analysis & Cost Optimization Dashboard**  
-Procurement analytics project using **Python, SQL, and Power BI**
-
+- End-to-end data engineering pipelines
+- Medallion architecture (Bronze, Silver, Gold)
+- Data transformation with PySpark and SQL
+- Cloud-based analytics solutions
+- Data quality validation and reporting
+- Dashboarding and business insights
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Programming & Query Languages**
-
+#### Languages
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" title="SQL"/>
 </p>
 
-**Big Data & Data Engineering**
-
+#### Data Engineering
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" title="Apache Spark"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
-**Cloud & Data Platforms**
-
+#### Cloud
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" title="Microsoft Azure"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" title="Power BI"/>
 </p>
 
-**Analytics & Visualization**
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
+#### Azure Data Engineering Services
+`Azure Data Factory` · `Azure Data Lake Storage` · `Azure Databricks` · `Azure Synapse Analytics` · `Azure SQL Database` · `Microsoft Fabric`
 
 ---
 
-### 📫 Connect With Me
+
+### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/jemis-gabani-ba7342202/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/jemis-gabani-ba7342202/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 </p>
 
 📧 Email: **jemisgabani7@gmail.com**
 
 ---
 
+### ✨ Fun Fact
+
+I enjoy building data solutions that are not only technically strong, but also useful for real business decisions.
